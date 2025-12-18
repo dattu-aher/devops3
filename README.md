@@ -1,3 +1,2 @@
 # devops3
-this is my second project
-my name is dattu
+this is my second projet
